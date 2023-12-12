@@ -73,7 +73,7 @@ footer h3 {
   width: 150px;
 }
 
-@media only screen and (max-width: 480px) {
+/*@media only screen and (max-width: 500px) {
   h1 {
     font-size: 46px;
   }
@@ -83,7 +83,9 @@ footer h3 {
   h3 {
     font-size: 30px;
   }
-  footer h3 {
-    font-size: 24px;
+  footer {
+    h3 {
+      font-size: 24px;
+    }
   }
-}/*# sourceMappingURL=style.css.map */
+}*//*# sourceMappingURL=style.css.map */
