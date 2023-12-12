@@ -73,3 +73,9 @@ footer h3 {
 .left {
   width: 150px;
 }
+
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 2rem;
+  }
+}
