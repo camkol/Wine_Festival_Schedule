@@ -7,3 +7,5 @@
    -SASS
 
 ## Notes
+
+-Improved responsiveness
